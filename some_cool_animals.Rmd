@@ -14,7 +14,9 @@ The organization of this document probably seems strange. That's because it's pa
 
 [Link to the Lab 4 prompt](https://docs.google.com/document/d/1KX6_bKA8BOO0NdsUviVi0HCT-q9iTCtTYsS1dGNQJfU/edit?usp=sharing)
 
-### Cool animal fun facts {.tabset .tabset-fade}
+### Cool animal fun facts {.tabset .tabset-fade} 
+
+Tabset says that underneath this level three header (###), everything you have a level four header (####), it will create a new tab. You can see this when you knit the document. 
 
 #### SHARKS!!!
 
@@ -46,7 +48,18 @@ The organization of this document probably seems strange. That's because it's pa
 - Pika live in high altitude talus slopes
 - American pika are already disappearing from the Sierra Nevada
 
+#### Ring-tailed cats
+To make this work you need to have a space between the pound signs and the next lign of text (e.g. the ### below)
+
+Here's where I want to have info on ringtails.
+
+![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+
+Whatever is in square = caption
+() = path to image that you want to use 
+
 ###
+Note: This ### now removes the tabset property you had established before 
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes in ESM 206, Bren School of Environmental Science and Management (UCSB) 
