@@ -54,12 +54,22 @@ To make this work you need to have a space between the pound signs and the next 
 Here's where I want to have info on ringtails.
 
 ![Ringtail cat (courtesy of VA Zoo)](img/ringtail_cat.jpg)
+We'll also learn about 'knitr::include_graphics()'
+
+Add a few fun facts:
+
+- Ringcats can rotate their feet 180 degrees when climbing 
+
+- Ringcats are not endangered, but they are very ellusive
+
+- Ringcats are closely related to racoons
+
 
 Whatever is in square = caption
 () = path to image that you want to use 
 
 ###
-Note: This ### now removes the tabset property you had established before 
+Note: This ### now removes the tabset property you had established before. This is like a "gate." Everything below this will be out of the tabs.  
 
 ----------
 **Disclaimer:** This document is only for R Markdown & GitHub teaching purposes in ESM 206, Bren School of Environmental Science and Management (UCSB) 
